@@ -1,0 +1,17 @@
+#query_response ul{
+	background: #FAFAFA;
+	width: 348px;
+	float: left;
+	padding: 0;
+	list-style: none;
+}
+
+#query_response li{
+	font-size: 16px;
+	padding: 2px;
+}
+#query_response li:hover{
+	background: #2196f3;
+	color: #fff;
+	cursor: pointer;
+}

@@ -1,0 +1,57 @@
+svg {
+width:30px;
+height:30px;
+float: left;
+margin-top: 0px;
+margin-right: 3px;
+}
+li a svg {
+margin-top:  -5px;
+}
+button svg {
+width:19px;
+height:19px;
+margin-top: 4px;
+margin-right: 3px;
+}
+*{
+	fill:white;
+}
+.log{
+width: 40px;
+}
+h4{
+	margin-left: 150px;
+	margin-right: 100px;
+}
+#login{
+	width: 600px;
+	margin-top: 150px;
+	margin-left: 500px; 
+	margin-right:  400px;	
+}
+#loginInscription{
+	width: 600px;
+	margin-top: 100px;
+	margin-left: 500px; 
+	margin-right:  400px;	
+}
+.panel-body{
+	border: 4px solid #1E90FF;
+}
+.panel-heading {
+	border-radius: 20px 20px 0px 0px;
+}
+.panel-footer{
+	border-radius: 0px 0px 20px 20px;
+}
+.error {
+	width: 93%;
+	margin: 0px auto;
+	padding: 10px;
+	border: 1px solid #A94442;
+	color: #a94442;
+	background: #f2dede;
+	border-radius: 5px;
+	text-align: left;
+}
